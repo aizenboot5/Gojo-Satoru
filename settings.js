@@ -19,8 +19,8 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['01115823431']
-global.premium = ['01115823431']
+global.owner = ['201115823431']
+global.premium = ['201115823431']
 global.ownernomer = '𓆩玄𓆪 𝐀 𝐈 𝐙 𝐄 𝐍 '
 global.ownername = '𓆩玄𓆪 𝐀 𝐈 𝐙 𝐄 𝐍 '
 global.botname = '𓆩玄𓆪 𝐀 𝐈 𝐙 𝐄 𝐍 '
@@ -29,8 +29,8 @@ global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'http://instagram.com/k_ic9n?utm_source=qr'
-global.packname = '𓆩玄𓆪 𝐀 𝐈 𝐙 𝐄 𝐍 '
-global.author = '𓆩玄𓆪 𝐈 𝐂 𝐇 𝐈 𝐆 𝐎'
+global.packname = '𓆩𝐾𝑢𝑟𝑜𝑠𝑎𝑘𝑖 𝐼𝑐𝒉𝑖𝑔𝑜𓆪'
+global.author = 𝑲_𝑰𝑪9'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
